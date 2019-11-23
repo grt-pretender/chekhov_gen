@@ -1,6 +1,6 @@
 //Print the following two lines of output:
 //On the first line, print Hello, World!.
-//On the second line, print the contents of parameterVariable.
+//On the second line, print the contents of parameterVariable (i.e., the argument passed to main).
 
 function greeting(parameterVariable) {
 
